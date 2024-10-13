@@ -5,7 +5,7 @@ Check multiple connection with it
 make sure to add your ip and host in host.txt file
 it should be in a format like 
 
-<ip_address>,<hosts>
+ip_address,hosts
 
 # usage 
 python telnet.py host.txt
