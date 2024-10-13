@@ -8,6 +8,6 @@ it should be in a format like
 <ip_address>,<hosts>
 
 # usage 
-To run use python telnet.py host.txt
+python telnet.py host.txt
 
 
